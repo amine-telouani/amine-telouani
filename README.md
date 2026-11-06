@@ -63,6 +63,33 @@ Team project with Youness Sbia using Laravel and React.
 - AI and data engineering internship at innovpal, summer 2026.
 - Three-day AI and ML training at Orange Digital Center.
 
+## Earlier technical background
+
+Before focusing on computer engineering and AI, I gained experience in laboratory quality control, water analysis, and computational chemistry.
+
+### Food Quality Control Intern
+
+**SOGENCOWEB · Safi, Morocco · Apr 2025 - Jun 2025**
+
+- Controlled histamine levels in fishery products.
+- Verified batch compliance with regulations and client requirements.
+- Applied laboratory hygiene rules and HACCP principles.
+
+### Laboratory Technician Intern
+
+**Régie Autonome Multi-Services d'Agadir (RAMSA) · Agadir, Morocco · Jul 2024 - Aug 2024**
+
+- Performed daily physicochemical and microbiological water analyses.
+- Checked sample compliance against quality standards.
+- Tracked pH, chlorine, and turbidity indicators and wrote reports.
+
+### DFT Study of [4+2] Cycloaddition Reactions
+
+**Computational chemistry project · Jan 2025 - Jun 2025**
+
+- Studied the kinetics and thermodynamics of a Diels-Alder reaction using Gaussian and GaussView.
+- Analyzed global and local indices and the reaction energy profile.
+
 ## Contact
 
 - Portfolio: [amine-telouani.vercel.app](https://amine-telouani.vercel.app)
