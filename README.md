@@ -62,8 +62,6 @@ Team project with Youness Sbia using Laravel and React.
 
 - AI and data engineering internship at innovpal, summer 2026.
 - Three-day AI and ML training at Orange Digital Center.
-- GITEX Africa 2026 attendee.
-- ENSAM Casablanca Forum des Entreprises 2025 participant.
 
 ## Contact
 
