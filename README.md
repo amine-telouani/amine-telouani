@@ -21,7 +21,7 @@ Dual-branch computer vision model combining an RGB CNN with an FFT frequency-map
 
 - Accuracy improved from **94.42%** with the CNN baseline to **95.11%** with the dual-branch model.
 - Uses Grad-CAM to inspect which image regions influence predictions.
-- [Live demo](https://deepfake-detector-c4cdq8sjhqywu5y8zgjgak.streamlit.app/) | [Repository](https://github.com/atel12345/deepfake-detector)
+- [Live demo](https://deepfake-detector-c4cdq8sjhqywu5y8zgjgak.streamlit.app/) | [Repository](https://github.com/amine-telouani/deepfake-detector)
 
 ### Scopus Bibliometric AI Agent
 
@@ -30,13 +30,13 @@ Python pipeline and FastAPI plus React web app that generates structured bibliom
 - Extracts publications, verifies first-author status by author IDs, and finds SCImago quartiles for exact publication years.
 - Exports Excel reports with a statistics sheet.
 - Uses the official Scopus API with OpenAlex as a fallback.
-- [Repository](https://github.com/atel12345/ai-scopus)
+- [Repository](https://github.com/amine-telouani/ai-scopus)
 
 ### Maze Mayhem
 
 NES game written in 6502 Assembly with random maze generation, shooting, enemies, multiple levels, music, sound effects, pause, and game-over screens.
 
-- [Repository](https://github.com/atel12345/maze-mayhem)
+- [Repository](https://github.com/amine-telouani/maze-mayhem)
 
 ### Recruitment Platform
 
@@ -44,7 +44,7 @@ Team project with Youness Sbia using Laravel and React.
 
 - Role-based experience for candidates, recruiters, and administrators.
 - JWT authentication, secured REST API, job offers, and application management.
-- [Repository](https://github.com/atel12345/projet_laravel-TELOUANI-Amine-SBIA-Youness-)
+- [Repository](https://github.com/amine-telouani/projet_laravel-TELOUANI-Amine-SBIA-Youness-)
 
 ## Skills
 
